@@ -4,31 +4,4 @@ Chess API written in scala for [lichess.org](https://lichess.org) [![Build Statu
 
 It is entirely functional, immutable, and free of side effects.
 
-~~
-INSTALL
--------
-
-Build dependencies
-
-    ./build-deps.sh
-
-Clone scalachess
-
-    git clone git://github.com/ornicar/scalachess
-
-Get latest sbt on http://www.scala-sbt.org/download.html
-
-Start sbt in scalachess directory
-
-    sbt
-
-In the sbt shell, to compile scalachess, run
-
-    compile
-
-To run the tests:
-
-    test
-~~
-
 Scalalib is now integrated as a library from Jitpack.
